@@ -1,0 +1,8 @@
+{
+  "name": "串口调试助手",
+  "description": "基于 Web Serial API 和 AI 智能分析的专业级串口调试助手",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
